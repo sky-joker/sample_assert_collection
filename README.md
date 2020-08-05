@@ -32,7 +32,7 @@ The following is the port check example playbook.
         state: tcp
 ```
 
-The following is the file check example playbook.
+The following is the directory check example playbook.
 
 ```yaml
 ---
